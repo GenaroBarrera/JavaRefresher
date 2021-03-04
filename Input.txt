@@ -1,0 +1,3 @@
+This is my input file.
+It has a few sentences inside.
+The quick brown fox jumped over the wall.
