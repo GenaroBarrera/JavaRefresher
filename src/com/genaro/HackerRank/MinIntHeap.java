@@ -33,6 +33,7 @@ public class MinIntHeap {
     }
 
     //ensure extra capacity method
+    //TODO: note this method is untested
     private void ensureExtraCapacity(){
         if(size == capacity){ //check if the items array is full
             items = Arrays.copyOf(items, capacity * 2); //if so increase the capacity by 2
